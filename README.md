@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hianand2004" alt="hianand2004" /></a> </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/anand_singh_04?ext=heatmap)
+
 - 🔭 I’m currently working on **Stock Portfolio Management with integrated AI powered price predictions**
 
 - 📫 How to reach me **74980anand@gmail.com**
