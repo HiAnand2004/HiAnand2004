@@ -26,7 +26,7 @@
 👋 Hi there! I'm **Anand Suresh Singh**  
 📘 Passionate about AI/ML & Deep Learning  
 🧠 I love learning by building real-world projects  
-📈 Currently working on **Stock Portfolio Management with integrated AI-powered price predictions**  
+📈 Currently working on **DiamondShield**  
 📫 How to reach me: **74980anand@gmail.com**  
 📄 Know about my experiences: [My Resume & Projects](https://drive.google.com/drive/folders/1VOSRqEpdL6Q4I664lZZLtPiA049d58ei)
 
